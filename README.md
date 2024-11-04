@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armiel Gonzales</h1>
 <h3 align="center">A Software Developer at Community Minerals</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/armielgonzzz/Data-Engineering-Project-Showcase](https://github.com/armielgonzzz/Data-Engineering-Project-Showcase) [https://github.com/armielgonzzz/universal-tool](https://github.com/armielgonzzz/universal-tool)
+- 👨‍💻 All of my projects are available at [Data Engineering Projects](https://github.com/armielgonzzz/Data-Engineering-Project-Showcase) [Community Minerals Tools](https://github.com/armielgonzzz/universal-tool)
 
 - 📫 How to reach me **armielgonzales@gmail.com**
 
