@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armiel Gonzales</h1>
-<h3 align="center">A Data Engineer at Community Minerals</h3>
+<h3 align="center">A Data Engineer at ZenoIT</h3>
 
-- 👨‍💻 All of my projects are available at [Data Engineering Projects](https://github.com/armielgonzzz/Data-Engineering-Project-Showcase) [Community Minerals Tools](https://github.com/armielgonzzz/universal-tool)
+- 👨‍💻 All of my projects are available at [Data Engineering Projects](https://github.com/armielgonzzz/Data-Engineering-Project-Showcase)
 
 - 📫 How to reach me **armielgonzales@gmail.com**
 
